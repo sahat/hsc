@@ -1,0 +1,38 @@
+{
+  "name": "hsc",
+  "version": "0.0.1",
+  "description": "Comprehensive HTTP Status Code Information in Node.js Made Easy!",
+  "keywords": [
+    "http",
+    "status",
+    "codes"
+  ],
+  "author": {
+    "name": "Nimit Kalra",
+    "email": "nimit@nimitkalra.com",
+    "url": "http://nimitkalra.com"
+  },
+  "main": "lib/hsc.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qw3rtman/hsc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qw3rtman/hsc/issues"
+  },
+  "scripts": {
+    "test": "jscs -p airbnb lib bin"
+  },
+  "homepage": "https://github.com/qw3rtman/hsc",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "request": "^2.53.0"
+  },
+  "devDependencies": {
+    "jscs": "~1.11.3"
+  }
+}
