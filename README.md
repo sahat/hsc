@@ -13,7 +13,7 @@
 var hsc = require('hsc');
 
 hsc.code(404, function(information)
-  console.log(information.title);
+  console.log(information.summary);
 });
 ```
 
