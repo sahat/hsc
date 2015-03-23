@@ -1,3 +1,5 @@
 var hsc = require('../lib/hsc.js');
 
-console.log(hsc.code(200));
+hsc.code(200, function(information) {
+	console.log(information);
+});
