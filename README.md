@@ -134,7 +134,7 @@ In the event of an error, the `status` property will become `"error"` and the `e
 ### Invalid HTTP status code.
 ```js
 hsc.code(2500, function(information) {
-	console.log(information);
+  console.log(information);
 });
 ```
 
