@@ -12,9 +12,13 @@
 ```js
 var hsc = require('hsc');
 
-hsc.code(404, function(information)
+hsc.code(404, function(information) {
   console.log(information.summary);
 });
+```
+
+```
+requested resource could not be found
 ```
 
 `hsc` is an npm package that aims to simplify the retrieval of HTTP status code information. `hsc` relies on the wonderful [httpstatus.es](http://httpstatus.es/) [API](https://github.com/citricsquid/httpstatus.es).
