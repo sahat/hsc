@@ -23,3 +23,9 @@ hsc.code(200, function(information) {
 hsc.code(200, function(information) {
 	console.log(information);
 }, true, true);
+
+// Errors.
+// Invalid code.
+hsc.code(2500, function(information) {
+	console.log(information);
+});
