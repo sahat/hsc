@@ -1,5 +1,13 @@
-# hsc
-Comprehensive HTTP Status Code Information in Node.js Made Easy!
+`hsc`
+=====
+[![Build Status](https://travis-ci.org/qw3rtman/hsc.svg?branch=master)](https://travis-ci.org/qw3rtman/gg)&nbsp;
+![](https://img.shields.io/npm/dm/hsc.svg)&nbsp;
+![npm version](http://img.shields.io/npm/v/hsc.svg)&nbsp;
+[![npm version](https://badge.fury.io/js/hsc.svg)](http://badge.fury.io/js/hsc)&nbsp;
+![](https://img.shields.io/npm/l/hsc.svg)&nbsp;  
+[![NPM](https://nodei.co/npm/hsc.png?mini=true)](https://nodei.co/npm/hsc/)
+
+## Comprehensive HTTP Status Code Information in Node.js Made Easy!
 
 ```js
 var hsc = require('hsc');
