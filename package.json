@@ -22,7 +22,7 @@
     "url": "https://github.com/qw3rtman/hsc/issues"
   },
   "scripts": {
-    "test": "jscs -p airbnb lib bin"
+    "test": "jscs -p airbnb lib"
   },
   "homepage": "https://github.com/qw3rtman/hsc",
   "engines": {
