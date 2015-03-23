@@ -1,6 +1,6 @@
 {
   "name": "hsc",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Comprehensive HTTP Status Code Information in Node.js Made Easy!",
   "keywords": [
     "http",
