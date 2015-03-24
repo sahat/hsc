@@ -5,7 +5,9 @@
   "keywords": [
     "http",
     "status",
-    "codes"
+    "error",
+    "codes",
+    "hsc"
   ],
   "author": {
     "name": "Nimit Kalra",
